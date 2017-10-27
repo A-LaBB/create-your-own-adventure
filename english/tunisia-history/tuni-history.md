@@ -9,8 +9,9 @@ the locals adding, each time, a new color to an already multicolored mosaic.
  -  218 B.C. Carthaginian general Hannibal crosses the Pyrenees to invade Rome.
  -  146 B.C. Destruction of Carthage by Rome.
  -  200 A.D. ~ 410 A.D. Tunisia, a Christian land (Tertullian, Cyprian and
-    Augustine).
- -  647 A.D. Muslim Arabs "discover" 
+   Augustine).
+ -  647 A.D. Muslim Arabs "discover" Ifriqiya (Tunisia, Tripolitana - Western
+   Lybia - and Constantinois - Eastern Algeria).
  - 1535 A.D. Spanish Catholic king Charles V enters Tunisia with his troups.
  - 1574 A.D. Turkish Ottomans enter Tunisia.
  - 1846 A.D. Sovereign Ahmed Bey abolishes slavery.
